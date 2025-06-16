@@ -1,6 +1,6 @@
 <h1>SafeBeat Infant Monitor Project Demo</h1>
 
-<!--TODO: Insert Demo Recording of Project Running-->
+![IMG_6599](https://github.com/user-attachments/assets/92e2d65f-38a3-49ac-b8c4-8109ac2d33a9)
 
 <h2>Description</h2>
 <p>
