@@ -4,14 +4,14 @@
 
 <h2>Description</h2>
 <p>
-This project is being undertaken by me and four other team members and serves as our capstone project for Texas A&M University.  
+This project was undertaken by me and four other team members and served as our capstone project for Texas A&M University.  
 I want to emphasize the fact that this project was a collaborative effort, with all work shared by my team members: Aaradanaa Sabitha Mohan, Venkata Sai Kotrike, Jonathan Zheng, and Anthony Dinh.  
 Our technical advisor is Dr. Lee Hudson, and our project sponsor is Dr. Logan Porter.  
 <br>
 <br>
 With that said, the project is an embedded project primarily centered around a biomedical engineering application and embedded software development.  
 The goal of the project is to measure Electrocardiogram (ECG/EKG) and Respiratory Rate for the purpose of monitoring sleep apnea in infants.  
-These measurements will be used in a monitoring system that will display real-time data on the recorded biometrics and alert parents if a sleep apnea event occurs.  
+These measurements are used in a monitoring system that displays real-time data of recorded biometrics and alerts parents if a sleep apnea event occurs.  
 The project structure is divided into two discrete components: the monitoring belt and the control box.  
 <br>
 <br>
@@ -20,7 +20,7 @@ Currently, real measurements on a human subject are not planned and are consider
 Even though the final product will not be tested on a person, we will simulate the device's functionality through simulated input ECG and Respiratory Rate.  
 <br>
 <br>
-NOTE: The expected project completion date is May 2025. Some examples of the project running and other hardware-specific files will be included at a later date.
+NOTE: The project was completed in May of 2025, and we won the second place prize in competition with over 30 other teams in our major.
 </p>
 
 
