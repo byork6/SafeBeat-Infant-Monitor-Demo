@@ -20,7 +20,7 @@ Currently, real measurements on a human subject are not planned and are consider
 Even though the final product will not be tested on a person, we will simulate the device's functionality through simulated input ECG and Respiratory Rate.  
 <br>
 <br>
-NOTE: The project was completed in May of 2025, and we won the second place prize in competition with over 30 other teams in our major.
+NOTE: The project was completed in May of 2025, and we won the second place prize in competition with over 30 other teams in our major. The "code" in this repo will contain some project contents to look at if interested. Keep in mind that all work was shared between the team members stated above. 
 </p>
 
 <h2>Lessons Learned</h2>
