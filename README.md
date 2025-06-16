@@ -2,6 +2,8 @@
 
 ![IMG_6599](https://github.com/user-attachments/assets/92e2d65f-38a3-49ac-b8c4-8109ac2d33a9)
 
+![IMG_6600](https://github.com/user-attachments/assets/5f265e5f-b9a4-4ade-b045-66f7205e2f82)
+
 <h2>Description</h2>
 <p>
 This project was undertaken by me and four other team members and served as our capstone project for Texas A&M University.  
