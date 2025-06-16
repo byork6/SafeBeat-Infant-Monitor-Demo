@@ -24,7 +24,17 @@ NOTE: The project was completed in May of 2025, and we won the second place priz
 </p>
 
 <h2>Lessons Learned</h2>
-<p>TODO</p>
+<p>
+  This team project lasted over the course of about 8 months, and posed significant challenges with timeline and resource management. 
+  At the start of this project we had high hopes but were limited in development time for the project.
+  Despite this, we were able to meet all deliverables besides one for the project. 
+  The deliverables included: full software development for both components, a working display to function as a user interface, and custom PCB design.
+  The only deliverable for the project that we fell short on was the custom PCB design. 
+  This was due to a few different challenges, but as a team decision we switched from a custom PCB to a launchpad focused protoboard design for the hardware components.
+  The design choice to use the TI launchpad allowed us to complete the project, with just a larger physicsl footprint.
+  Through this project I further developed team skills, leadership, RTOS & Embedded development skills in C, and other fundamental eningeering project skills.
+  This project was a wonderful experience and truly was the culmination of many years of work at university.
+</p>
 
 <h2>Project Structure</h2>
 <p align="center">
