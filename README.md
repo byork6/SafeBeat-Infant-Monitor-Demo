@@ -23,7 +23,8 @@ Even though the final product will not be tested on a person, we will simulate t
 NOTE: The project was completed in May of 2025, and we won the second place prize in competition with over 30 other teams in our major.
 </p>
 
-
+<h2>Lessons Learned</h2>
+<p>TODO</p>
 
 <h2>Project Structure</h2>
 <p align="center">
